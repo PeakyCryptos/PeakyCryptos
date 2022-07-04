@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/suthan-somadeva#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/suthan-somadeva#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/suthan-somadeva-434aa0242/)
+<br/>
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]()
