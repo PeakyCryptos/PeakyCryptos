@@ -5,7 +5,7 @@
 - ⭐ Check out my latest project: [Automated Truly Random Lottery /w Weighted Randomness](https://github.com/PeakyCryptos/Automated-Truly-Random-Lottery-Ethereum)!
 - 📙 I’m currently learning to develop DAPPS for the Ethereum Blockchain
 - 🤝 I’m looking to collaborate with other developers in the Cryptocurrency space
-- 👨🏽‍🎓 I graduated from Ontario Tech Univeristy in May of this year 
+- 👨🏽‍🎓 I graduated from Ontario Tech University in May of this year 
 
 ### Connect with me:
 
