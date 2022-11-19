@@ -2,7 +2,7 @@
 
 ## I'm an Ever Learning Student, Developer, and Web3 Enthusiast!!
 
-- ⭐ Check out my latest project: [ERC1155 coded purely in assembly(yul)](https://github.com/PeakyCryptos/ethereumYulContracts)!
+- ⭐ Check out my latest project: [ERC1155 coded purely in assembly(yul)](https://github.com/PeakyCryptos/ethereumYulContracts/blob/main/contracts/ERC1155/ERC1155.yul)!
 - 📙 I’m currently learning to develop DAPPS for the Ethereum Blockchain
 - 🤝 I’m looking to collaborate with other developers in the Cryptocurrency space
 - 👨🏽‍🎓 I graduated from Ontario Tech University in May of this year 
