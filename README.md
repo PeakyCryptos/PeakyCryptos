@@ -2,7 +2,7 @@
 
 ## I'm an Ever Learning Student, Developer, and Web3 Enthusiast!!
 
-- ⭐ Check out my latest project: [ERC1155 coded purely in assembly(yul)](https://github.com/PeakyCryptos/ethereumYulContracts/blob/main/contracts/ERC1155/ERC1155.yul)!
+- ⭐ Check out my latest project: [an algorithm to allowlist addresses far more efficiently than ECDSA or Merkle Trees!](https://github.com/RareSkills/RSA-presale-allowlisthttps://github.com/RareSkills/RSA-presale-allowlist)
 - 📙 I’m currently learning to develop DAPPS for the Ethereum Blockchain
 - 🤝 I’m looking to collaborate with other developers in the Cryptocurrency space
 - 👨🏽‍🎓 I graduated from Ontario Tech University in May of this year 
