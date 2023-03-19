@@ -5,7 +5,6 @@
 - ⭐ Check out my latest project: [an algorithm to allowlist addresses far more efficiently than ECDSA or Merkle Trees!](https://github.com/RareSkills/RSA-presale-allowlist)
 - 🛠 I’m currently working as a Solidity Engineer at [Panoptic](https://www.panoptic.xyz/)
 - 🤝 I’m looking to collaborate with other developers in the Cryptocurrency space
-- 👨🏽‍🎓 I graduated from Ontario Tech University in May of 2022
 
 ### Connect with me:
 
