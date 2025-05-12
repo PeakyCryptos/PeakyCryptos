@@ -1,4 +1,4 @@
-# Hello there, I'm Suthan Somadeva 👋 
+# Hello there, I'm PeakyCryptos 👋 
 
 ## I'm an Ever Learning Student, Developer, and Web3 Enthusiast!!
 
