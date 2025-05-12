@@ -6,8 +6,3 @@
 - 🛠 I’m currently working as an Engineer at [Panoptic](https://www.panoptic.xyz/)
 - 🤝 I’m looking to collaborate with other developers in the Cryptocurrency space
 
-### Connect with me:
-
-[<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/suthan-somadeva-434aa0242/)
-<br/>
-
